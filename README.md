@@ -1,5 +1,5 @@
 # E-medicalsite
-Designed using JSP as Frontend and SQL as database. The Front end tools are HTML,CSS and Javascript.The EMedical Site is an online platform aimed at providing comprehensive healthcare services and information to users. It serves as a centralized hub for medical resources, consultation, and education.
+Designed using JSP as Frontend and SQL as database. The Front end tools are HTML and CSS.The E-Medical Site is an online platform aimed at providing comprehensive healthcare services and information to users. It serves as a centralized hub for medical resources, consultation, and education.
 ![Index](https://github.com/sanjaykumar061/E-medicalsite/assets/114355525/5cb1ec08-d4eb-4236-a051-02bc2f931c63)
 
 
